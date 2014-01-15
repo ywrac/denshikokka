@@ -1,6 +1,5 @@
 # 『電子国家と天皇制』
-## 粉川哲夫
-
+著者：粉川哲夫<br />
 原本：<http://cinemanote.jp/books/denshikokka.html>
 
 ## ライセンス
